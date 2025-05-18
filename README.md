@@ -25,7 +25,7 @@ Hi there! I'm a passionate Frontend Developer focused on creating beautiful and 
 
 ## 🌟 Featured Projects
 
-[![TikTok Clone](https://github-readme-stats.vercel.app/api/pin/?username=TanMinhNgo&repo=tiktok-clone&theme=github_dark)](https://github.com/YOUR_USERNAME/tiktok-clone)
+[![TikTok Clone](https://github-readme-stats.vercel.app/api/pin/?username=TanMinhNgo&repo=tiktok-clone&theme=github_dark)](https://github.com/TanMinhNgo/tiktok-clone)
 
 ## 🤝 Connect With Me
 
