@@ -19,26 +19,26 @@ Hi there! I'm a passionate Frontend Developer focused on creating beautiful and 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TanMinhNgo&show_icons=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanMinhNgo&layout=compact&theme=github_dark" />
 </div>
 
 ## 🌟 Featured Projects
 
-[![TikTok Clone](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=tiktok-clone&theme=github_dark)](https://github.com/YOUR_USERNAME/tiktok-clone)
+[![TikTok Clone](https://github-readme-stats.vercel.app/api/pin/?username=TanMinhNgo&repo=tiktok-clone&theme=github_dark)](https://github.com/YOUR_USERNAME/tiktok-clone)
 
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngominhtan1252004@gmail.com)
 
 ## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TanMinhNgo&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=TanMinhNgo&color=blue&style=flat" alt="Profile views" />
 </div>
