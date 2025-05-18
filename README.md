@@ -23,27 +23,6 @@ Hi there! I'm a passionate Frontend Developer focused on creating beautiful and 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanMinhNgo&layout=compact&theme=github_dark" />
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/TanMinhNgo/tiktok-clone">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TanMinhNgo&repo=tiktok-clone&theme=dark" />
-  </a>
-</div>
-
-<!-- Add screenshot or GIF of your project -->
-<div align="center">
-  <img src="./screenshots/demo.gif" alt="TikTok Clone Demo" width="600px"/>
-</div>
-
-### Key Features
-- 📱 Responsive TikTok-style interface
-- 🎥 Video feed with infinite scroll
-- 👥 User authentication
-- ❤️ Like and comment functionality
-
-[Live Demo](https://your-demo-url.com) | [Source Code](https://github.com/TanMinhNgo/tiktok-clone)
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
