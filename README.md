@@ -78,11 +78,6 @@ Hi there! I'm **TanMinhNgo**, a passionate Full‑Stack Developer focused on cre
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-ngominhtans-projects.vercel.app/api?show_icons=true&username=TanMinhNgo&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats-omega-five.vercel.app/api/top-langs/?username=TanMinhNgo&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=TanMinhNgo&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
