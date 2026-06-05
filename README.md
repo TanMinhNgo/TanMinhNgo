@@ -77,7 +77,7 @@ Hi there! I'm **TanMinhNgo**, a passionate Full‑Stack Developer focused on cre
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TanMinhNgo&theme=dark&border_radius=5&locale=vi&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TanMinhNgo&border_radius=4.8)](https://git.io/streak-stats)
 
 ---
 
