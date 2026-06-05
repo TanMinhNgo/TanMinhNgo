@@ -77,9 +77,9 @@ Hi there! I'm **TanMinhNgo**, a passionate Full‑Stack Developer focused on cre
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=TanMinhNgo&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=TanMinhNgo&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TanMinhNgo&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanMinhNgo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
