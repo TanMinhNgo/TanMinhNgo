@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=TanMinhNgo+%7C+Full-Stack+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Building+modern+web+experiences" alt="Typing SVG" />
   <p>
-    <a href="https://linkedin.com/in/tan_minh.n"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/ngô-minh-tân-undefined-a4270a422"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://portfolio-gray-three-38.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     <a href="mailto:ngominhtan1252004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
@@ -90,6 +90,6 @@ Hi there! I'm **TanMinhNgo**, a passionate Full‑Stack Developer focused on cre
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [linkedin.com/in/tan_minh.n](https://linkedin.com/in/tan_minh.n)
+- 💼 LinkedIn: [linkedin.com/in/ngô-minh-tân-undefined-a4270a422/](https://www.linkedin.com/in/ngô-minh-tân-undefined-a4270a422/)
 - 🌐 Portfolio: [portfolio-gray-three-38.vercel.app](https://portfolio-gray-three-38.vercel.app)
 - 📧 Email: ngominhtan1252004@gmail.com
