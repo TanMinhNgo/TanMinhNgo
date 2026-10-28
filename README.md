@@ -91,7 +91,7 @@
 
 <table width="100%">
 <tr><td width="28%"><strong>Languages & tools</strong></td><td>TypeScript | Python | JavaScript | CSS | Rust | Java | HTML | SCSS</td></tr>
-<tr><td><strong>Profile focus</strong></td><td>sleep-gift-app · ai-stylist · course-platform</td></tr>
+<tr><td><strong>Profile focus</strong></td><td>Agent Series - MarketerOS - AI Stylist</td></tr>
 <tr><td><strong>GitHub signal</strong></td><td>73 repositories · 0 stars · 1,264 contributions</td></tr>
 </table>
 
