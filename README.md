@@ -52,7 +52,7 @@ const tan = {
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,py,redis,rabbitmq&perline=10" alt="Backend" />
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,py,fastapi,redis,rabbitmq&perline=10" alt="Backend" />
       <br/><img src="https://img.shields.io/badge/BullMQ-EA4C89?style=flat" alt="BullMQ" />
       <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white" alt="Socket.IO" />
       <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
@@ -87,15 +87,77 @@ const tan = {
 <!-- ===================== PROJECTS ===================== -->
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏨 [StayReco](https://github.com/KnightChovy/stay-reco)
+Hotel booking platform with AI recommendations, serving three roles: guests book rooms, partners run their hotels, admins verify and oversee. Web, mobile and API share one Zod contract package.
+
+<code>NestJS</code> <code>Prisma</code> <code>PostgreSQL + pgvector</code> <code>Next.js</code> <code>Expo</code>
+<br/><sub>👥 Team project</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 📣 [MarketerOS](https://github.com/TanMinhNgo/MarketerOS)
+AI workspace for solo marketers, designed as a desktop: each tool is a window, each project a folder. Brand Brief–aware content generation streamed over SSE, content calendar, auto-posting to Facebook/LinkedIn, Free/Pro/Max plans.
+
+<code>Next.js</code> <code>NestJS</code> <code>BullMQ</code> <code>Redis</code> <code>Neon</code> <code>Clerk Billing</code> <code>OpenAI</code>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [Agent Series](https://github.com/TanMinhNgo/agent-series)
+Multi-provider AI agent (Gemini, Claude, OpenAI) with local RAG over PDF/DOCX/Markdown, controllable long-term memory, scheduled AI tasks, shareable chat snapshots and a read-only Google Workspace connector.
+
+<code>FastAPI</code> <code>React</code> <code>PostgreSQL + pgvector</code> <code>SSE</code>
+
+</td>
+<td width="50%" valign="top">
+
+### 👗 [AI Stylist](https://github.com/TanMinhNgo/ai-stylist)
+Mobile stylist app: upload a photo, try outfits on it with AI, save your personal style and get accessory suggestions. Image jobs run on a background queue.
+
+<code>Expo</code> <code>NestJS</code> <code>BullMQ</code> <code>Prisma</code> <code>Clerk</code> <code>ImageKit</code> <code>OpenAI</code>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [E-commerce Recommendation](https://github.com/TanMinhNgo/e-commerce-recommendation)
+Online store with recommendation surfaces on web and mobile: Redis-backed cart, Stripe checkout, real-time updates, Prometheus metrics and an OpenAPI 3.1 spec.
+
+<code>Express 5</code> <code>MongoDB</code> <code>Redis</code> <code>Socket.IO</code> <code>Stripe</code> <code>AWS SageMaker</code>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌙 [Ngủ Ngon](https://github.com/TanMinhNgo/sleep-gift-app)
+Two-person sleep journal: one logs each morning, the other sends good-night notes and, with consent, sees the trends. Offline-first, with a 3D moon and a voice-guided wind-down game.
+
+<code>Expo</code> <code>SQLite</code> <code>three.js</code> <code>NestJS</code> <code>Neon</code>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More projects</b></summary>
+<br/>
+
 | Project | What it is | Stack |
 |---|---|---|
-| 🏨 **[SmartStay AI](https://github.com/KnightChovy/SmartStayAI-System)** | AI-powered hotel booking platform with personalized stay recommendations | `React` `Node.js` `AI` |
-| 👗 **[AI Stylist](https://github.com/TanMinhNgo/ai-stylist)** | Mobile app that dresses your photo in new outfits, learns your style and suggests accessories | `React Native` `Clerk` `Neon` `ImageKit` `OpenAI` |
-| 📣 **[MarketerOS](https://github.com/TanMinhNgo/MarketerOS)** | AI workspace for solo marketers, with a desktop-and-windows style UI | `Next.js` `TypeScript` `OpenAI` |
-| 🎵 **[LenFolk AI](https://github.com/TanMinhNgo/LenFolk-AI-System)** | Learning platform for Vietnamese traditional instruments, powered by AI | `AI` `Audio analysis` |
-| 🛒 **[E-commerce + Recommendation](https://github.com/TanMinhNgo/e-commerce-recommendation)** | Online store with a recommendation engine driven by user events | `React` `Express` `TypeScript` |
-| 📊 **[Analytics System](https://github.com/TanMinhNgo/analytics-system)** | Analytics dashboard for tracking and visualizing product metrics | `TypeScript` `Dashboard` |
+| 📊 [Analytics System](https://github.com/TanMinhNgo/analytics-system) | Analytics dashboard with ETL jobs, data marts and live job progress over WebSocket | `Next.js` `Express` `Drizzle` `BullMQ` |
+| 📸 [Codexgram](https://github.com/TanMinhNgo/codexgram) | Instagram-style iOS app: posts, likes, comments, follows, discovery and private chat | `Expo` `Convex` `Clerk` `Sentry` |
+| 🧠 [RAG From Zero](https://github.com/TanMinhNgo/rag-series) | Minimal RAG pipeline (Load → Chunk → Embed → Store → Retrieve → Generate), no orchestration framework | `Python` `Local E5 embeddings` `Gemini` |
+| 🎋 [LenFolk AI](https://github.com/TanMinhNgo/LenFolk-AI-System) | Bamboo flute audio analyzer: pitch, spectral features, MFCC and a 0–100 quality score | `Python` `Librosa` |
+| 🎬 [Video Streaming](https://github.com/TanMinhNgo/video-streaming) | Video platform with uploads, auth webhooks and hardened Express API | `React` `Express` `MongoDB` `ImageKit` |
 
+</details>
 <p align="right"><a href="https://github.com/TanMinhNgo?tab=repositories">➜ See all repositories</a></p>
 
 <!-- ===================== STATS ===================== -->
