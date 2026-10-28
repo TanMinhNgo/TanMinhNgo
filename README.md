@@ -26,6 +26,7 @@ const tan = {
   role: "Full-Stack Developer · Student",
   focus: ["System design", "Clean architecture", "AI-powered products"],
   building: [
+    "Agent Series — multi-provider AI agent with RAG & long-term memory",
     "SEAL — hackathon management platform with commit tracking & AI code review",
     "AI Stylist — mobile virtual try-on & personal styling app",
     "MarketerOS — AI workspace for solo marketers",
@@ -89,34 +90,32 @@ const tan = {
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="3" valign="top">
 
-### 🏨 [StayReco](https://github.com/KnightChovy/stay-reco)
-Hotel booking platform with AI recommendations, serving three roles: guests book rooms, partners run their hotels, admins verify and oversee. Web, mobile and API share one Zod contract package.
+### 🤖 [Agent Series](https://github.com/TanMinhNgo/agent-series) &nbsp;<sub>⭐ FLAGSHIP</sub>
+A multi-provider AI agent app with a modern chat UI, built to go beyond a simple chatbot:
 
-<code>NestJS</code> <code>Prisma</code> <code>PostgreSQL + pgvector</code> <code>Next.js</code> <code>Expo</code>
-<br/><sub>👥 Team project</sub>
+- **Multi-model chat** with Gemini, Claude and OpenAI through an allowlist config
+- **Local RAG** over PDF, DOCX and Markdown: background indexing, chunking, local embeddings and semantic search with pgvector
+- **Controllable long-term memory**: auto-indexed conversations, semantic recall, forget per item or wipe all
+- **Scheduled AI tasks** (once, daily, weekly) with run logs and timeout recovery
+- **Agent and tool status streamed over SSE**, shareable chat snapshots with expiry and revoke
+- **Google Workspace connector** (Drive, Gmail, Calendar, read-only) with locally encrypted tokens
 
-</td>
-<td width="50%" valign="top">
-
-### 📣 [MarketerOS](https://github.com/TanMinhNgo/MarketerOS)
-AI workspace for solo marketers, designed as a desktop: each tool is a window, each project a folder. Brand Brief–aware content generation streamed over SSE, content calendar, auto-posting to Facebook/LinkedIn, Free/Pro/Max plans.
-
-<code>Next.js</code> <code>NestJS</code> <code>BullMQ</code> <code>Redis</code> <code>Neon</code> <code>Clerk Billing</code> <code>OpenAI</code>
+<code>FastAPI</code> <code>React</code> <code>Vite</code> <code>TypeScript</code> <code>PostgreSQL + pgvector</code> <code>SSE</code> <code>Google OAuth</code>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🤖 [Agent Series](https://github.com/TanMinhNgo/agent-series)
-Multi-provider AI agent (Gemini, Claude, OpenAI) with local RAG over PDF/DOCX/Markdown, controllable long-term memory, scheduled AI tasks, shareable chat snapshots and a read-only Google Workspace connector.
+### 📣 [MarketerOS](https://github.com/TanMinhNgo/MarketerOS)
+AI workspace for solo marketers, designed as a desktop: each tool is a window, each project a folder. Brand Brief–aware content streamed over SSE, content calendar, auto-posting to Facebook/LinkedIn, Free/Pro/Max plans.
 
-<code>FastAPI</code> <code>React</code> <code>PostgreSQL + pgvector</code> <code>SSE</code>
+<code>Next.js</code> <code>NestJS</code> <code>BullMQ</code> <code>Redis</code> <code>Neon</code> <code>Clerk Billing</code> <code>OpenAI</code>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 👗 [AI Stylist](https://github.com/TanMinhNgo/ai-stylist)
 Mobile stylist app: upload a photo, try outfits on it with AI, save your personal style and get accessory suggestions. Image jobs run on a background queue.
@@ -124,9 +123,7 @@ Mobile stylist app: upload a photo, try outfits on it with AI, save your persona
 <code>Expo</code> <code>NestJS</code> <code>BullMQ</code> <code>Prisma</code> <code>Clerk</code> <code>ImageKit</code> <code>OpenAI</code>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🛒 [E-commerce Recommendation](https://github.com/TanMinhNgo/e-commerce-recommendation)
 Online store with recommendation surfaces on web and mobile: Redis-backed cart, Stripe checkout, real-time updates, Prometheus metrics and an OpenAPI 3.1 spec.
@@ -134,30 +131,8 @@ Online store with recommendation surfaces on web and mobile: Redis-backed cart, 
 <code>Express 5</code> <code>MongoDB</code> <code>Redis</code> <code>Socket.IO</code> <code>Stripe</code> <code>AWS SageMaker</code>
 
 </td>
-<td width="50%" valign="top">
-
-### 🌙 [Ngủ Ngon](https://github.com/TanMinhNgo/sleep-gift-app)
-Two-person sleep journal: one logs each morning, the other sends good-night notes and, with consent, sees the trends. Offline-first, with a 3D moon and a voice-guided wind-down game.
-
-<code>Expo</code> <code>SQLite</code> <code>three.js</code> <code>NestJS</code> <code>Neon</code>
-
-</td>
 </tr>
 </table>
-
-<details>
-<summary><b>More projects</b></summary>
-<br/>
-
-| Project | What it is | Stack |
-|---|---|---|
-| 📊 [Analytics System](https://github.com/TanMinhNgo/analytics-system) | Analytics dashboard with ETL jobs, data marts and live job progress over WebSocket | `Next.js` `Express` `Drizzle` `BullMQ` |
-| 📸 [Codexgram](https://github.com/TanMinhNgo/codexgram) | Instagram-style iOS app: posts, likes, comments, follows, discovery and private chat | `Expo` `Convex` `Clerk` `Sentry` |
-| 🧠 [RAG From Zero](https://github.com/TanMinhNgo/rag-series) | Minimal RAG pipeline (Load → Chunk → Embed → Store → Retrieve → Generate), no orchestration framework | `Python` `Local E5 embeddings` `Gemini` |
-| 🎋 [LenFolk AI](https://github.com/TanMinhNgo/LenFolk-AI-System) | Bamboo flute audio analyzer: pitch, spectral features, MFCC and a 0–100 quality score | `Python` `Librosa` |
-| 🎬 [Video Streaming](https://github.com/TanMinhNgo/video-streaming) | Video platform with uploads, auth webhooks and hardened Express API | `React` `Express` `MongoDB` `ImageKit` |
-
-</details>
 <p align="right"><a href="https://github.com/TanMinhNgo?tab=repositories">➜ See all repositories</a></p>
 
 <!-- ===================== STATS ===================== -->
