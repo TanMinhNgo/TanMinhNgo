@@ -1,170 +1,121 @@
-<!-- ===================== HEADER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:2F81F7&height=220&section=header&text=Ng%C3%B4%20Minh%20T%C3%A2n&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Product%20Builder&descSize=18&descAlignY=58&animation=fadeIn" alt="header" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/TanMinhNgo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&lines=Building+full-stack+products+end-to-end;React+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+TypeScript;LLM+apps+%C2%B7+RAG+%C2%B7+AI+agents;Clean+architecture%2C+shipped+to+production" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://portfolio-gray-three-38.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ngô-minh-tân-undefined-a4270a422"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ngominhtan1252004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=TanMinhNgo&color=2F81F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
-
-<!-- ===================== ABOUT ===================== -->
-## 👨‍💻 About Me
-
-```ts
-const tan = {
-  name: "Ngô Minh Tân",
-  location: "Vietnam 🇻🇳",
-  role: "Full-Stack Developer · Student",
-  focus: ["System design", "Clean architecture", "AI-powered products"],
-  building: [
-    "Agent Series — multi-provider AI agent with RAG & long-term memory",
-    "SEAL — hackathon management platform with commit tracking & AI code review",
-    "AI Stylist — mobile virtual try-on & personal styling app",
-    "MarketerOS — AI workspace for solo marketers",
-  ],
-  learning: ["RAG & AI agents", "Event-driven backends", "Flutter"],
-  motto: "Understand the fundamentals, then ship.",
-};
-```
-
-<!-- ===================== TECH STACK ===================== -->
-## 🧰 Tech Stack
-
-<table>
-  <tr>
-    <td align="center" width="140"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,sass,redux,html,css&perline=10" alt="Frontend" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,flutter,dart&perline=10" alt="Mobile" />
-      <br/><img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native" />
-      <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" alt="Expo" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,py,fastapi,redis,rabbitmq&perline=10" alt="Backend" />
-      <br/><img src="https://img.shields.io/badge/BullMQ-EA4C89?style=flat" alt="BullMQ" />
-      <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white" alt="Socket.IO" />
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" alt="Swagger" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Database</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma&perline=10" alt="Database" />
-      <br/><img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" alt="Mongoose" />
-      <img src="https://img.shields.io/badge/Neon-00E599?style=flat&logo=neon&logoColor=black" alt="Neon" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>AI / Data</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
-      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini" />
-      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face" />
-      <img src="https://img.shields.io/badge/RAG-2F81F7?style=flat" alt="RAG" />
-      <img src="https://img.shields.io/badge/Embeddings-1E3A8A?style=flat" alt="Embeddings" />
-      <img src="https://img.shields.io/badge/Vector_DB-0D1117?style=flat" alt="Vector DB" />
-      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>DevOps & Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,nginx,aws,vercel,githubactions,git,github,linux,ubuntu,postman,figma&perline=11" alt="DevOps" /></td>
-  </tr>
-</table>
-
-<!-- ===================== PROJECTS ===================== -->
-## 🚀 Featured Projects
-
-<table>
+<table width="100%">
 <tr>
-<td colspan="3" valign="top">
-
-### 🤖 [Agent Series](https://github.com/TanMinhNgo/agent-series) &nbsp;<sub>⭐ FLAGSHIP</sub>
-A multi-provider AI agent app with a modern chat UI, built to go beyond a simple chatbot:
-
-- **Multi-model chat** with Gemini, Claude and OpenAI through an allowlist config
-- **Local RAG** over PDF, DOCX and Markdown: background indexing, chunking, local embeddings and semantic search with pgvector
-- **Controllable long-term memory**: auto-indexed conversations, semantic recall, forget per item or wipe all
-- **Scheduled AI tasks** (once, daily, weekly) with run logs and timeout recovery
-- **Agent and tool status streamed over SSE**, shareable chat snapshots with expiry and revoke
-- **Google Workspace connector** (Drive, Gmail, Calendar, read-only) with locally encrypted tokens
-
-<code>FastAPI</code> <code>React</code> <code>Vite</code> <code>TypeScript</code> <code>PostgreSQL + pgvector</code> <code>SSE</code> <code>Google OAuth</code>
-
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · tanminhngo</sub></p>
+<h1>Ngo Minh Tan</h1>
+<h2>Full-stack engineer · AI products</h2>
+<p>I build end-to-end products with TypeScript and Python, from clean backend architecture to LLM features like RAG, agents and long-term memory.</p>
+<p><strong>● Open to full-stack and AI engineering roles</strong></p>
+<p><sub>Based in Ho Chi Minh City, Vietnam</sub></p>
+<p><a href="https://portfolio-gray-three-38.vercel.app">Portfolio</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/ngô-minh-tân-undefined-a4270a422">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:ngominhtan1252004@gmail.com">Email</a></p>
 </td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-### 📣 [MarketerOS](https://github.com/TanMinhNgo/MarketerOS)
-AI workspace for solo marketers, designed as a desktop: each tool is a window, each project a folder. Brand Brief–aware content streamed over SSE, content calendar, auto-posting to Facebook/LinkedIn, Free/Pro/Max plans.
-
-<code>Next.js</code> <code>NestJS</code> <code>BullMQ</code> <code>Redis</code> <code>Neon</code> <code>Clerk Billing</code> <code>OpenAI</code>
-
-</td>
-<td width="33%" valign="top">
-
-### 👗 [AI Stylist](https://github.com/TanMinhNgo/ai-stylist)
-Mobile stylist app: upload a photo, try outfits on it with AI, save your personal style and get accessory suggestions. Image jobs run on a background queue.
-
-<code>Expo</code> <code>NestJS</code> <code>BullMQ</code> <code>Prisma</code> <code>Clerk</code> <code>ImageKit</code> <code>OpenAI</code>
-
-</td>
-<td width="33%" valign="top">
-
-### 🛒 [E-commerce Recommendation](https://github.com/TanMinhNgo/e-commerce-recommendation)
-Online store with recommendation surfaces on web and mobile: Redis-backed cart, Stripe checkout, real-time updates, Prometheus metrics and an OpenAPI 3.1 spec.
-
-<code>Express 5</code> <code>MongoDB</code> <code>Redis</code> <code>Socket.IO</code> <code>Stripe</code> <code>AWS SageMaker</code>
-
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/171718646?u=04b70281cc2c81dfee8d5705a935781fa539e7cb&amp;v=4" width="180" alt="Ngo Minh Tan GitHub avatar" />
 </td>
 </tr>
 </table>
-<p align="right"><a href="https://github.com/TanMinhNgo?tab=repositories">➜ See all repositories</a></p>
+</div>
 
-<!-- ===================== STATS ===================== -->
-## 📊 GitHub Stats
+<h2>What teams can evaluate quickly</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Full-stack engineer · TypeScript · Python<br /><sub>Next.js · NestJS · FastAPI · Expo · PostgreSQL</sub></p></td>
+<td width="33%" valign="top"><h3>AI focus</h3><p>RAG · AI agents · LLM apps<br /><sub>OpenAI · Gemini · Claude · pgvector</sub></p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>1,264 contributions · 210 active days<br /><sub>73 public repositories</sub></p></td>
+</tr>
+</table>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>73</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>1,264</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>210</strong><br /><sub>Active days</sub></td>
+<td width="25%" align="center"><strong>4</strong><br /><sub>Full-stack AI products</sub></td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=tanminhngo&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171718646%3Fu%3D04b70281cc2c81dfee8d5705a935781fa539e7cb%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=tanminhngo&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171718646%3Fu%3D04b70281cc2c81dfee8d5705a935781fa539e7cb%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Ngo Minh Tan GitHub proof metrics" />
+</picture>
 </p>
 
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" height="170" />
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language" height="170" />
-</p>
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=tanminhngo&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171718646%3Fu%3D04b70281cc2c81dfee8d5705a935781fa539e7cb%26v%3D4&repos=tanminhngo%2Fagent-series%2Ctanminhngo%2FMarketerOS%2Ctanminhngo%2Fai-stylist%2Ctanminhngo%2Fe-commerce-recommendation&v=recruiter-projects-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=tanminhngo&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171718646%3Fu%3D04b70281cc2c81dfee8d5705a935781fa539e7cb%26v%3D4&repos=tanminhngo%2Fagent-series%2Ctanminhngo%2FMarketerOS%2Ctanminhngo%2Fai-stylist%2Ctanminhngo%2Fe-commerce-recommendation&v=recruiter-projects-2&mode=dark" width="100%" alt="Ngo Minh Tan selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<p><sub>⭐ FLAGSHIP</sub></p>
+<h3><a href="https://github.com/TanMinhNgo/agent-series">Agent Series</a></h3>
+<p>Multi-provider AI agent app (Gemini, Claude, OpenAI) that goes beyond a chatbot:</p>
+<ul>
+<li>Local RAG over PDF, DOCX and Markdown with pgvector</li>
+<li>Controllable long-term memory with semantic recall</li>
+<li>Scheduled AI tasks with run logs and recovery</li>
+<li>Agent and tool status streamed over SSE</li>
+<li>Read-only Google Workspace connector</li>
+</ul>
+<p><sub>FastAPI · React · TypeScript · PostgreSQL + pgvector</sub></p>
+<p><a href="https://github.com/TanMinhNgo/agent-series">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/TanMinhNgo/MarketerOS">MarketerOS</a></h3><p>AI workspace for solo marketers, designed as a desktop of app windows. Brand-aware content over SSE, content calendar, auto-posting to Facebook and LinkedIn, Free/Pro/Max plans.</p><p><sub>Next.js · NestJS · BullMQ · Redis · Neon · Clerk · OpenAI</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/TanMinhNgo/ai-stylist">AI Stylist</a></h3><p>Mobile stylist app: upload a photo, try outfits on it with AI, save your personal style and get accessory suggestions. Image jobs run on a background queue.</p><p><sub>Expo · NestJS · BullMQ · Prisma · Clerk · ImageKit · OpenAI</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/TanMinhNgo/e-commerce-recommendation">E-commerce Recommendation</a></h3><p>Online store with recommendation surfaces on web and mobile: Redis-backed cart, Stripe checkout, real-time updates, Prometheus metrics and an OpenAPI 3.1 spec.</p><p><sub>Express 5 · MongoDB · Redis · Socket.IO · Stripe</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TanMinhNgo&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=tanminhngo&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171718646%3Fu%3D04b70281cc2c81dfee8d5705a935781fa539e7cb%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=tanminhngo&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171718646%3Fu%3D04b70281cc2c81dfee8d5705a935781fa539e7cb%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Ngo Minh Tan technology stack" />
+</picture>
 </p>
 
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>47% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>31% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>6% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>3% of public code</sub></td>
+<td width="20%" align="center"><strong>Rust</strong><br /><sub>3% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanMinhNgo&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FFFFFF&area=true&area_color=1E3A8A&hide_border=true" alt="Activity graph" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=tanminhngo&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171718646%3Fu%3D04b70281cc2c81dfee8d5705a935781fa539e7cb%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=tanminhngo&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171718646%3Fu%3D04b70281cc2c81dfee8d5705a935781fa539e7cb%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Ngo Minh Tan contribution activity" />
+</picture>
 </p>
 
-<!-- ===================== SNAKE ===================== -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanMinhNgo/TanMinhNgo/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanMinhNgo/TanMinhNgo/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/TanMinhNgo/TanMinhNgo/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
+<hr />
 
-<!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,50:1E3A8A,100:0D1117&height=120&section=footer" alt="footer" width="100%" />
-</p>
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://portfolio-gray-three-38.vercel.app">Portfolio</a><br /><a href="https://www.linkedin.com/in/ngô-minh-tân-undefined-a4270a422">LinkedIn</a><br /><a href="mailto:ngominhtan1252004@gmail.com">ngominhtan1252004@gmail.com</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Ngo Minh Tan · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
