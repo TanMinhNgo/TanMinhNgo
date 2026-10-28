@@ -82,7 +82,6 @@
 </table>
 
 <h2>Technical toolkit</h2>
-## Technology arsenal
 
 <div align="center">
 
