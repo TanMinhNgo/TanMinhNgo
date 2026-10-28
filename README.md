@@ -9,7 +9,7 @@
 <p>I build end-to-end products with TypeScript and Python, from clean backend architecture to LLM features like RAG, agents and long-term memory.</p>
 <p><strong>● Open to full-stack and AI engineering roles</strong></p>
 <p><sub>Based in Ho Chi Minh City, Vietnam</sub></p>
-<p><a href="https://portfolio-gray-three-38.vercel.app">Portfolio</a> &nbsp;·&nbsp; <a href="[https://www.linkedin.com/in/ngô-minh-tân-undefined-a4270a422](https://www.linkedin.com/in/tân-ngô-minh-a4270a422/)">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:ngominhtan1252004@gmail.com">Email</a></p>
+<p><a href="https://portfolio-gray-three-38.vercel.app">Portfolio</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/tân-ngô-minh-a4270a422">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:ngominhtan1252004@gmail.com">Email</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
 <img src="https://www.gitskins.com/api/section/portrait?username=tanminhngo&theme=github-dark&style=terminal&color=1&motion=cap-tip&v=signature-cap-tip-1&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171718646%3Fu%3D04b70281cc2c81dfee8d5705a935781fa539e7cb%26v%3D4" width="620" alt="Ngo Minh Tan animated graduation portrait" />
@@ -126,7 +126,7 @@
 <table width="100%">
 <tr>
 <td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://portfolio-gray-three-38.vercel.app">Portfolio</a><br /><a href="[https://www.linkedin.com/in/ngô-minh-tân-undefined-a4270a422](https://www.linkedin.com/in/tân-ngô-minh-a4270a422/)">LinkedIn</a><br /><a href="mailto:ngominhtan1252004@gmail.com">ngominhtan1252004@gmail.com</a></td>
+<td width="38%" valign="middle" align="right"><a href="https://portfolio-gray-three-38.vercel.app">Portfolio</a><br /><a href="https://www.linkedin.com/in/tân-ngô-minh-a4270a422">LinkedIn</a><br /><a href="mailto:ngominhtan1252004@gmail.com">ngominhtan1252004@gmail.com</a></td>
 </tr>
 </table>
 
