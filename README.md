@@ -12,7 +12,7 @@
 <p><a href="https://portfolio-gray-three-38.vercel.app">Portfolio</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/ngô-minh-tân-undefined-a4270a422">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:ngominhtan1252004@gmail.com">Email</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/171718646?u=04b70281cc2c81dfee8d5705a935781fa539e7cb&amp;v=4" width="180" alt="Ngo Minh Tan GitHub avatar" />
+<img src="https://www.gitskins.com/api/section/portrait?username=tanminhngo&theme=github-dark&style=terminal&color=1&motion=cap-tip&v=signature-cap-tip-1&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171718646%3Fu%3D04b70281cc2c81dfee8d5705a935781fa539e7cb%26v%3D4" width="620" alt="Ngo Minh Tan animated graduation portrait" />
 </td>
 </tr>
 </table>
